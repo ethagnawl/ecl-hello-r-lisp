@@ -19,3 +19,4 @@ The exercise demonstrates:
 ## Credits, Resources, etc.
 - https://common-lisp.net/project/ecl/main.html
 - https://gitlab.com/embeddable-common-lisp/ecl/tree/develop/examples/embed
+- https://stackoverflow.com/questions/47562440/how-can-i-return-a-string-from-a-call-to-ffic-inline-in-ecl
