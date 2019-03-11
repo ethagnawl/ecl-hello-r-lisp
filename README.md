@@ -11,7 +11,7 @@ The exercise demonstrates:
 
 ## Following along at home
 1. clone [the ecl repository](https://gitlab.com/embeddable-common-lisp/ecl)
-2. install [ecl](https://common-lisp.net/project/ecl/static/manual/pr01s06.html)
+2. install ecl from your distribution's package manager (YMMV) or [from source](https://common-lisp.net/project/ecl/static/manual/pr01s06.html)
 3. run `make` from this repository's root
 4. you _should_ now have and executable which can be run using:
 `./ecl-hello-r-lisp`
